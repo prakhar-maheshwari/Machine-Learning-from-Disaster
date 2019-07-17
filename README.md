@@ -11,3 +11,8 @@ Titanic: Machine Learning from Disaster
 <li>Model, predict and solve the problem.<br></li>
 <li>Visualize, report, and final solution.<br></li>
 <li>Submit the results.<br></li></ol>
+<br>
+<br>
+
+<b> Prediction Score using Support Vector Machine Model<br> </b>
+![alt text](https://github.com/prakhar-maheshwari/Machine-Learning-from-Disaster/blob/master/Prediction%20Score.png?raw=true)
